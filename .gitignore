@@ -1,0 +1,19 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
